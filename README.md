@@ -47,7 +47,6 @@
 - 3 control plane nodes с etcd, ресурсы 8 RAM + 4 CPU
 - 3 worker nodes с 19 RAM и 10 CPU
 
-
 ----
 
 ### Правила приёма работы
